@@ -2,13 +2,13 @@
     "name": "foundry-patrol",
     "title": "Foundry Token Patroller",
     "description": "Give your tokens the ability to navigate automatically by selecting patrol points.",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "author": "Jacob McAuley",
     "scripts": ["./config/settings-extender.js", "./config/config.js", "./src/TokenPatroller.js"],
     "styles": ["./css/foundry-menu.css"],
     "url": "https://github.com/JacobMcAuley/foundry-patrol",
-    "manifest": "https://github.com/JacobMcAuley/foundry-patrol/raw/master/module.json",
-    "download": "https://github.com/JacobMcAuley/foundry-patrol/archive/master.zip",
+    "manifest": "https://github.com/KevinBrandon/foundry-patrol/raw/master/module.json",
+    "download": "https://github.com/KevinBrandon/foundry-patrol/archive/master.zip",
     "minimumCoreVersion": "0.6.0",
-    "compatibleCoreVersion": "0.6.2"
+    "compatibleCoreVersion": "0.7.7"
 }
